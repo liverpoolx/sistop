@@ -30,7 +30,7 @@ El libro fue escrito por:
   Ciencias de la Información y Sistemas]] de la [[http://www.unr.edu.ar/][Universidad Nacional de
   Rosario]], Argentina
 - Erwin Meza, de Facultad de Ingeniería Electrónica y
-  Telecomunicaciones de la [[http://www.unicauca.edu.co/][Universidad del Cauca]], Colombia
+  Telecomunicaciones de la [[http://www.unicauca.edu.co/][Universidad del Cauca]], Colombiasss
 
 * Herramientas requeridas
 
